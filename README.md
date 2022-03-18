@@ -42,4 +42,5 @@
 <a href="https://fb.com/ign_flextzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ign_flextzy" height="30" width="40" /></a>
 <a href="https://instagram.com/ign_flextzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ign_flextzy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fbi edits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fbi edits" height="30" width="40" /></a>
+<a href="https://twitter.com/debajit_db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debajit_db" height="30" width="40" /></a>
 </p>
