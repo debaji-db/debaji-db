@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debajidb" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debaji-db" />
 </p>
